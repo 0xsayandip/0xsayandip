@@ -7,19 +7,6 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 - 📫 How to reach me: academicsdm03@gmail.com
 
 
-![Profile views](https://komarev.com/ghpvc/?username=0xsayandip&color=blue)
-
-
-<div align="center">
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsayandip&layout=compact&show_icons=true&theme=radical)
-
-
-![Sayandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xsayandip&show_icons=true&theme=radical)
-
-
-</div>
 
 
 #### ☎ I'm always eager to connect with fellow coders and learners. Feel free to reach out to me on:
